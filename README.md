@@ -1,52 +1,61 @@
-# 📊 My Power BI Projects
+# 📊 HR Analytics Project – Power BI & SQL
+
+This project aims to analyze employee data to uncover insights related to attrition, job satisfaction, salary trends, and performance. Using SQL for data preparation and Power BI for visualization, we developed a comprehensive HR dashboard and business report.
 
 ---
 
-## 🧠 Project 1: Employee Performance Dashboard
+## 🎯 Objectives
 
-This Power BI report provides insights into employee attrition, satisfaction, and departmental performance.
-
-🔗 [Click here to view the report](https://app.powerbi.com/groups/me/reports/f2d43b41-4331-4a05-83d0-bf44b0c9c2a9/70f06d688d24beca63a5?experience=power-bi)
-
----
-
-## 📂 Project 2: HR Analytics Project – Power BI + SQL
-
-A full-stack HR analytics project involving data cleaning, transformation, and visualization using SQL and Power BI.
-
-### 📌 Project Files
-
-- 🗃️ [SQL Script – Data Cleaning & Analysis](HR%20Project%20Document%20(1).sql)
-- 📊 [Power BI Report File (PBIX)](HR%20Document%20(2).pbix)
-- 📈 [Excel File – Source Data](SQL%20Document%20(1).xlsx)
-- 📘 [Project Report (PDF)](HR%20Document%20(1).pdf)
+- Analyze attrition patterns and employee satisfaction
+- Perform data cleaning and transformation using SQL
+- Build interactive dashboards in Power BI
+- Provide actionable recommendations to reduce turnover and improve job engagement
 
 ---
 
-### 🔍 Key Highlights
+## 🧰 Tools & Technologies
 
-- Cleaned inconsistent values (e.g., gender, rates) using SQL
-- Removed duplicate employee records with CTE
-- Visualized attrition by:
-  - Department
-  - Age group
-  - Overtime status
-  - Job satisfaction
-
-### 📈 Power BI Insights
-
-- Attrition is highest in **Sales** and **HR**
-- Overtime combined with low satisfaction = high attrition
-- Average monthly income analyzed by **Job Role** and **Department**
-
----
-
-### 🛠 Tools Used
-
+- Microsoft SQL Server
 - Microsoft Power BI
-- SQL Server
-- Excel
+- Microsoft Excel
+- SQL (T-SQL)
+- Markdown & GitHub
 
-📥 *Download the PBIX or SQL files to recreate the project locally.*
+---
 
-📥 *Download the PBIX & SQL files to explore or recreate the dashboard yourself.*
+## 📁 Project Structure
+
+| File Name | Description |
+|----------|-------------|
+| `HR Project Document (1).sql` | SQL queries for data cleaning & EDA |
+| `HR Document (2).pbix` | Power BI dashboard file |
+| `SQL Document (1).xlsx` | Raw or cleaned data file |
+| `HR Document (1).pdf` | Project documentation (structure/steps) |
+| `HR Analytics Project Task 4 and Task 5 Insights & Recommendations.docx` | Final report for insights & recommendations |
+
+---
+
+## 📊 Power BI Dashboards
+
+### Page 1 – HR Overview
+
+- ✅ KPIs: Total Employees, Attrition Rate, Avg Job Satisfaction, Avg Monthly Income
+- ✅ Charts: 
+  - Bar Chart – Attrition by Department & Job Role
+  - Pie Chart – Gender Distribution
+  - *(Line chart skipped: no time-based data)*
+
+### Page 2 – Salary & Performance
+
+- ✅ Scatter Plot – Performance vs Monthly Income  
+- ✅ Matrix – Salary by Job Role & Department  
+- ✅ Heatmap – Satisfaction vs Performance  
+- ✅ Filters – Department, Job Role, Age Group, Marital Status
+
+📷 *(You can add screenshots here if needed)*
+
+```markdown
+![Dashboard Page 1](dashboard-page1.png)
+![Dashboard Page 2](dashboard-page2.png)
+
+
