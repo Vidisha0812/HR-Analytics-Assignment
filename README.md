@@ -52,8 +52,6 @@ This project aims to analyze employee data to uncover insights related to attrit
 - ✅ Heatmap – Satisfaction vs Performance  
 - ✅ Filters – Department, Job Role, Age Group, Marital Status
 
-📷 *(You can add screenshots here if needed)*
-
 ```markdown
 ![Dashboard Page 1](dashboard-page1.png)
 ![Dashboard Page 2](dashboard-page2.png)
