@@ -28,7 +28,7 @@ This project aims to analyze employee data to uncover insights related to attrit
 | File Name | Description |
 |----------|-------------|
 | `HR Project Document (1).sql` | SQL queries for data cleaning & EDA |
-| `HR Document (2).pbix` | Power BI dashboard file |
+| `HR Document.pbix` | Power BI dashboard file |
 | `SQL Document (1).xlsx` | Raw or cleaned data file |
 | `HR Document (1).pdf` | Project documentation (structure/steps) |
 | `HR Analytics Project Task 4 and Task 5 Insights & Recommendations.docx` | Final report for insights & recommendations |
